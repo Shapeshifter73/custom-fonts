@@ -1,0 +1,94 @@
+.noBreak {
+display: inline;
+}
+.hl {
+background-color: yellow;
+}
+.sans {
+font-family: Arial, Helvetica, sans-serif;
+}
+.srf {
+font-family: Georgia, serif;
+}
+.b {
+font-weight: bold;
+}
+.cursv {
+font-family: Florence, cursive;
+}
+.fant {
+font-family: Oldtown, fantasy;
+}
+.mnspc {
+font-family: monospace;
+}
+.allups {
+font-variant: small-caps;
+font-size: 800;
+}
+.i {
+font-style: italic;
+}
+.gothic {
+font-family: Century Gothic, sans-serif;
+}
+.cpr {
+font-family: Copperplate Gothic Light, sans-serif;
+}
+.cour {
+font-family: 'Courier New', Courier, monospace;
+}
+.trb {
+font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+.cnsl {
+font-family: 'Lucida Console', Monaco, monospace;
+}
+.arial {
+font-family: 'Arial Black', Gadget, sans-serif;
+}
+.col.bl {
+color: blue;
+}
+.col.wi {
+color: white;
+}
+.col.ylw {
+color: yellow;
+}
+.pdi {
+padding: 10px;
+}
+.pdii {
+padding: 20px;
+}
+.pdiii {
+padding: 30px;
+}
+.pdiv {
+padding: 40px;
+}
+.pdv {
+padding: 50px;
+}
+.hl.blu {
+background-color: blue;
+}
+.hl.bla {
+background-color: black;
+}
+.hl.wit {
+background-color: white;
+}
+.hl.rd {
+background-color: red;
+}
+.hl.gra {
+background-color: gray;
+}
+.col {
+color: red;
+}
+.col.gr {
+color: gray;
+}
